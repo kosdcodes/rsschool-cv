@@ -1,1 +1,1 @@
-# rsschool-cv
+https://kosdcodes.github.io/rsschool-cv/
